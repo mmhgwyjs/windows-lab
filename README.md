@@ -100,4 +100,5 @@ To set up and configure a Windows Server environment to demonstrate essential se
 
 ## Lab Exercises
 
-- Coming soon
+- [Active Directory](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/Active%20Directory.md)
+- [IIS Web Server](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/IIS%20Web%20Server.md)
