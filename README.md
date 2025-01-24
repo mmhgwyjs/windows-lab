@@ -100,5 +100,7 @@ To set up and configure a Windows Server environment to demonstrate essential se
 
 ## Lab Exercises
 
-- [Active Directory](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/Active%20Directory.md)
-- [IIS Web Server](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/IIS%20Web%20Server.md)
+| Exercise                   | Description                                                                                     | Link                                                      | Status       |
+|----------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------|
+| Setting Up Active Directory | Configure Active Directory on a Windows server, including domain setup, users, and group policies. | [View Exercise](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/Active%20Directory.md)                                         | Planned  |
+| Installing and Configuring IIS Web Server | Set up and configure an IIS Web Server on a Windows machine, including website hosting and management. | [View Exercise](https://github.com/mmhgwyjs/windows-lab/blob/main/Lab%20Exercises/IIS%20Web%20Server.md)                                         | Planned  |
